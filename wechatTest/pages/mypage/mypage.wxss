@@ -1,0 +1,6 @@
+.maps {
+    width: 100%;
+}
+.showmap {
+    margin: 1rem auto;
+}

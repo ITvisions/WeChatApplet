@@ -1,0 +1,4 @@
+<!--logs.wxml-->
+<view>
+    <map class="showmap" bindmarkertap="markertap" longitude="104.66955" latitude="29.52823"></map>
+</view>
